@@ -1,4 +1,4 @@
-# Milebit Labs
+# Mile Labs
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-ff69b4.svg)
